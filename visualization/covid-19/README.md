@@ -5,6 +5,6 @@ Feel free to customize them for your projects. ^_^
 
 ## Images
 
-![Infected cases in Vietnam](https://github.com/ngdthanh2000/covid19-visualization/blob/main/images/oneline.gif?raw=true)
-![Death cases: US vs. Mainland China](https://github.com/ngdthanh2000/covid19-visualization/blob/main/images/twolines.gif?raw=true)
-![Death cases: Top 10](https://github.com/ngdthanh2000/covid19-visualization/blob/main/images/top10.gif?raw=true)
+![Infected cases in Vietnam](https://github.com/ngdthanh2000/notebook-collection/blob/main/visualization/covid-19/oneline.gif?raw=true)
+![Death cases: US vs. Mainland China](https://github.com/ngdthanh2000/notebook-collection/blob/main/visualization/covid-19/twolines.gif?raw=true)
+![Death cases: Top 10](https://github.com/ngdthanh2000/notebook-collection/blob/main/visualization/covid-19/top10.gif?raw=true)
